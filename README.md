@@ -1,5 +1,5 @@
 # Gender
-This is a gender check app. Albeit loosely written....haha
+This is a gender check app. Albeit loosely written.....haha
 
 This was done using the `genderize` API.
 This is a simple API to predict the gender of a given name.
